@@ -1,13 +1,9 @@
 # Algorithms 101
 
-> Python implementation of state-of-the-art algorithms.
+> Dart implementation of state-of-the-art algorithms.
 
 ## List of Content
 
-### Routing Algorithms
+### Search Algorithms
 
-A Star
-
-Dijkstra
-
-Link-State
+Binary search
