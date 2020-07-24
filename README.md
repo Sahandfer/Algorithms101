@@ -7,3 +7,7 @@
 ### Search Algorithms
 
 Binary search
+
+### Sorting Algorithms
+
+Selection sort
