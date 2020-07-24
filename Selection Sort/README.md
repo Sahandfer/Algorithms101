@@ -8,7 +8,7 @@ You can try these programs by running the following command:
 
 ```shell
 cd Selection\ Sort
-dart [filename].dart
+dart sort_array_asc.dart
 ```
 
 ## Runtime
