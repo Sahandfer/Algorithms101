@@ -4,10 +4,12 @@
 
 ## List of Content
 
-### Search Algorithms
+### Searching Algorithms
 
 Binary search
 
 ### Sorting Algorithms
 
 Selection sort
+
+Insertion sort
