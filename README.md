@@ -8,8 +8,14 @@
 
 Binary search
 
+Breadth-first search
+
 ### Sorting Algorithms
 
 Selection sort
 
 Insertion sort
+
+Merge sort
+
+Quick sort
