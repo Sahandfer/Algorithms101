@@ -6,16 +6,12 @@
 
 ### Searching Algorithms
 
-Binary search
+- [Binary search]()
 
-Breadth-first search
 
 ### Sorting Algorithms
 
-Selection sort
-
-Insertion sort
-
-Merge sort
-
-Quick sort
+- [Insertion sort](https://github.com/Sahandfer/Algorithms101/blob/master/Sorting%20Algorithms/Insertion_Sort.dart)
+- [Selection sort](https://github.com/Sahandfer/Algorithms101/blob/master/Sorting%20Algorithms/Selection_Sort.dart)
+- [Merge sort](https://github.com/Sahandfer/Algorithms101/blob/master/Sorting%20Algorithms/Merge_Sort.dart)
+- [Quick sort]()
