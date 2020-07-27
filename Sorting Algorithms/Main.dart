@@ -24,9 +24,11 @@ void main(List<String> args) {
     case 'Quick':
       quick_sort(arr);
       break;
+
     case 'Bubble':
       bubble_sort(arr);
       break;
+
     default:
       print("Lol! Don't know that algorithm yet...");
   }
