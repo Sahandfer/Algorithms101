@@ -30,6 +30,6 @@ void main(List<String> args) {
       break;
 
     default:
-      print("Lol! Don't know that algorithm yet...");
+      print("Don't know that algorithm yet...");
   }
 }
